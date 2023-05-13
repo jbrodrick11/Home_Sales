@@ -1,4 +1,4 @@
-# Home_Sales
+# Home Sales Challenge (Module 22)
 
 ---
 
